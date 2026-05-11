@@ -1,6 +1,6 @@
 # 📝 Task Manager - Fullstack (Rails + Vue)
 
-Aplicação fullstack de gerenciamento de tarefas desenvolvida como teste técnico, utilizando **Ruby on Rails (API)** no backend e **Vue.js** no frontend.
+Aplicação fullstack de gerenciamento de tarefas, utilizando **Ruby on Rails (API)** no backend e **Vue.js** no frontend.
 
 ---
 
@@ -97,7 +97,7 @@ GET http://localhost:3000/tasks.json
 
 ## 🎯 Decisões Técnicas
 
-- Separação clara entre frontend e backend
+- Separação entre frontend e backend
 - Uso de Rails em modo API (`--api`)
 - Camada de service no frontend para chamadas HTTP
 - Status derivado (não persistido)
@@ -110,9 +110,3 @@ GET http://localhost:3000/tasks.json
 - O projeto foi desenvolvido com foco em simplicidade, organização e clareza de código
 - Interface simples, porém funcional e responsiva
 - Estrutura preparada para evolução futura (componentização, autenticação, etc.)
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido como teste técnico.
